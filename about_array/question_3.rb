@@ -1,0 +1,1 @@
+# Write a Ruby program to convert an array into an index hash.
