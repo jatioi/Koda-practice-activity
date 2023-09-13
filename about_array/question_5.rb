@@ -1,8 +1,13 @@
 # Write a program to find the sum of all elements of an array.
+# Finding the sum method
 
 
-my_array = Array.new
-p my_array.methods
+my_array = [1, 5, 3, 10]
 
-my_hash = Hash.new
-p my_hash.methods
+sum = 0
+
+my_array.each { |item| sum += item }
+
+p sum
+
+p my_array.sum
