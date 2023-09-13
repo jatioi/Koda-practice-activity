@@ -1,8 +1,3 @@
-# person_one = { name: "john", age: 18, city: "New york"}
-# p person_one
-
-# person_one.methods
-# p person_one.methods
 
 # '[]' Method : Create a new hash or access a value by key.
 
