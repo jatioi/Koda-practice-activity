@@ -1,0 +1,1 @@
+#Given an array of ages, count and print the number of people who are 18 or older.
