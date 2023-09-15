@@ -1,0 +1,1 @@
+#Write a program that iterates through a hash representing a phone book and prints the names and phone numbers of all contacts.
