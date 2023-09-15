@@ -1,0 +1,2 @@
+#Build a basic menu program that asks the user to select a dish by entering its number.
+# Use a case statement to display the dish's name and price. If the user enters an invalid number, print "Invalid selection."
