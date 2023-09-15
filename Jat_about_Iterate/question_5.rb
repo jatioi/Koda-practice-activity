@@ -1,0 +1,1 @@
+#Find and print the maximum value in an array of numbers without using built-in functions like max.
