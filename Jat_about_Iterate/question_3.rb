@@ -1,0 +1,1 @@
+#Calculate and print the sum of all elements in an array of numbers.
