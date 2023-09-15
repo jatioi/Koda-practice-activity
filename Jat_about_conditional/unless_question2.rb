@@ -1,0 +1,2 @@
+#Write a program that asks the user to enter a temperature in Celsius. Use an unless statement to check
+# if it's below freezing (0°C or lower). If it's freezing, print "It's freezing!" Otherwise, print "The temperature is okay."
