@@ -1,0 +1,1 @@
+#Write a program that iterates through an array of fruits and prints each fruit's name.

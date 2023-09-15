@@ -1,0 +1,2 @@
+#Write a program that asks the user to enter their exam score (out of 100). If their score is 90 or higher, print "You got an A!" If it's between 80 and 89, print "You got a B."
+# For scores below 80, print "You need to improve."
